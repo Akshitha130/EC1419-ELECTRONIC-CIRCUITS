@@ -9,6 +9,13 @@
 
 # Tabulation with readings
 
+<img width="403" height="304" alt="Screenshot 2026-04-06 122540" src="https://github.com/user-attachments/assets/6fe82775-aa9c-4ec2-a6a0-2394052d9577" />
+
+
+
 ## Semilog plotted Graph
+
+<img width="626" height="380" alt="Screenshot 2026-04-06 122332" src="https://github.com/user-attachments/assets/6bebe211-9fe9-47a9-9a27-104d1adbb3f9" />
+
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
